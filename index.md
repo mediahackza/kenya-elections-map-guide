@@ -1,8 +1,6 @@
 # Fundamentals of Data Journalism
 
-## The fundamentals of data journalism
-
-      - July How to make an election map
+## How to make an election map
 
 - Overview Table of contents
   - Election stories you can tell with maps
